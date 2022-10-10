@@ -10,7 +10,7 @@ headcirc     length    gestage    birthwt     momage    toxemia
        27         30         28       1320         27          0
        25         34         29        830         32          1
        23         32         26        880         26          0
-import pandas       26         39         30       1130         29          0
+       26         39         30       1130         29          0
        27         38         29       1140         24          0
        27         39         29       1350         26          0
        26         37         29        950         25          0
